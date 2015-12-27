@@ -1,0 +1,38 @@
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+C:\Users\Сергей\Desktop\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.UI.ArduinoSerial.resources
+C:\Users\Sergey\YandexDisk\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+C:\Users\Sergey\YandexDisk\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+C:\Users\Sergey\YandexDisk\C# 2010 Projects\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+C:\Users\Никита\Desktop\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+C:\Users\Никита\Desktop\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+C:\Users\Никита\Desktop\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.UI.ArduinoSerial.resources
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\раб стол 17.10\Новая папка\ArduinoSerial\ArduinoSerial\ArduinoSerial\bin\Debug\Newtonsoft.Json.xml
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\Newtonsoft.Json.dll
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\Newtonsoft.Json.xml
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.UI.ArduinoSerial.resources
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+D:\gitProjects\Arduino\ArduinoSerial\ArduinoSerial\bin\Debug\Model\log_db.accdb
